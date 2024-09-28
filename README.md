@@ -20,6 +20,7 @@
     
     -   Toma la lista que contiene la cantidad de canicas en cada contenedor y genera un gráfico de barras.
     -   Se añaden etiquetas y un título para que sea fácil de entender.
+    -   Muestra la cantidad de canicas que hay por cada contenedor
 
 ### Acerca del Bootcamp
 La experiencia adquirida hasta ahora ha sido muy importante. Cada clase, cada ejercicio y cada proyecto han sido oportunidades para aplicar lo que hemos aprendido. El enfoque práctico y sus explicaciones claras realmente han hecho la diferencia en mi comprensión del lenguaje y en mi habilidad para resolver problemas.
