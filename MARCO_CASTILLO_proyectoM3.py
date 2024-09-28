@@ -34,6 +34,11 @@ def histograma(res):
     plt.xticks(range(len(res)))
     # Se añade cuadriculas en el eje Y para mejorar la legibilidad
     plt.grid(axis='y')
+    # Se añade iterancia para mostrar la cantidad de canicas por contenedor
+    for i, cant in enumerate(res):
+        # Se ajusta el espacio entre el numero y la barra
+        plt.text(i, cant + 1, str(cant), ha='center')
+
     # Se muestra el grafíco en una nueva ventana
     plt.show()
 
